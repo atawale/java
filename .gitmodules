@@ -1,0 +1,6 @@
+[submodule "helloworld"]
+	path = helloworld
+	url = https://github.com/atawale/java.git
+[submodule "examples/helloworld"]
+	path = examples/helloworld
+	url = https://github.com/atawale/java.git
